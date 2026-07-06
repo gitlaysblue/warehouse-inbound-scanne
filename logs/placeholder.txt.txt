@@ -1,0 +1,2 @@
+# This file exists only so Git/GitHub keeps this empty folder.
+# Delete this note once you add your own real files here.
